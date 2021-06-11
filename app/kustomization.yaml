@@ -1,6 +1,4 @@
-namespace: user2-spring-petclinic
 resources:
-- namespace.yaml
 - deployment.yaml
 - service.yaml
 - route.yaml
